@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chioma Opara
 
-I'm an undergraduate student at **Smith College**, Class of 2027, majoring in **Computer Science** and **Quantitative Economics**. I’m passionate about **machine learning**, **data-driven storytelling**, and the ethical use of technology to address global challenges.
+I'm an undergraduate student at **Smith College**, Class of 2027, majoring in **Computer Science**. I’m passionate about **machine learning**, **data-driven storytelling**, and the ethical use of technology to address global challenges.
 
 My work spans healthcare AI, genomic research, and large language models—often with a focus on **fairness**, **accessibility**, and **real-world impact**.
 
